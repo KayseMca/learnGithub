@@ -1,0 +1,48 @@
+.git projesi olusturmak için 
+cmd üzerinden "git init" yazilir
+ ########## .gitignore demek bu dosyalari fark etmesini istemem silsem degisilikli yapsam da
+commit için 
+git commit -m ""-> wixii aad rabto inaad qorto ku qor
+
+status
+git status -> geçiste bekleyen dosya var mi diye kontrol eder
+
+git log -> bütün yaptigin degisiklikleri commentleri ile beraber siralar
+
+git diff -> dosyalarda bir ekleme ya da çikarma yaptiginsan degisiklikleri karsilastirir ve gösterir.
+
+git rm -> dosya ya da klasör silme
+
+git rm -r (klasörün adi)/ ->//klasörü dosyalari ile beraber siler
+
+mv-> iki islem yapar 1. dosya ya da klasör tasima 2. dosya ismi degistirme
+ 
+git mv (eski isim) (yeni isim) -> eski dosyadan ismine degistirir yeni ismi ise ne olacagini buradan belirinir.
+ 
+ # tasimak için
+
+git rm (tasinacak dosya) (tasinacak klasör)/ -> klasörden sonra slas olmali
+
+ # 1eski degisiklikleri geri alma
+git checkout -- (dosya adi)
+
+# geçis içinde olan ve hala commit edilmedi islemi geri alma
+
+git reset HEAD (dosya adi)
+
+#daha önceki versiyonlari simdiki proje halimize ekleme
+
+git checkout (proje commit kodu(ilk 7 satirida alinabilir tamamida)) .  //sonraki nokta önemli çünkü bütün degisiklikleri geri getiriyor. nokta yerine sadece geri getirme istedigin dosyada yazabilirsin
+ 
+git checkout --(dosya adi)  -> silinen veya eklenen yazilari çikarir ve eski haleni geri getirir
+
+ #2dosya geri getirme
+
+
+### ekstra bilgi
+
+
+touch -> normal dosya olusturur(rm->silme)
+mkdir -> bir klasör olusturur(rmdir->çikarma)
+
+touch dosya{1..5} bestane dosya üstüsüte olusturur

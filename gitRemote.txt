@@ -1,0 +1,11 @@
+ 
+si aad ugu xidho github ugunu keydiso projehaaga,
+git version adoo isticmaalay waxa la sameeya sida:
+
+git remote add (halkan waxaad rabto ku qor yani magac) ( soo copy-gare linkaga repostary-ga aad github ku dhex sameysay ) tusaale:
+
+git remote add githubRepo https://github.com/KayseMca/tusale.git (enter)
+-hada waad ku shubi kartaa proje-haga github adoo isticmaalaya
+
+git push -u (magicii aad kor ku qortay marlabaad qor) master (enter)
+-kadib ciwaankaga iyo lambarka sirta ayuu ku weydiin 

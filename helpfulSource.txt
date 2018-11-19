@@ -1,0 +1,8 @@
+	
+	Basic writing and formating syntax
+
+1.https://help.github.com/articles/basic-writing-and-formatting-syntax/
+2.https://github.com/prakhar1989/awesome-courses  //courses
+3. in the search bar write (awesome-(any thing you wana)) //awesome-java
+
+4.http://www.deeplearningbook.org/

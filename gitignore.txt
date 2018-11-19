@@ -1,0 +1,7 @@
+﻿# gitignore bütün dosyaları görülmesini istiyorsan
+ learnGithub/* -> komutu eklenir
+
+# dahil etmek istemedin dosya varsa (görülmesini istedin dosya varsa)
+!
+learnGithub/basic.txt ->bu dosyanın değişikliklerini görmek istiyorum
+ demek
