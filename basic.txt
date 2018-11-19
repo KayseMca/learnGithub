@@ -1,5 +1,8 @@
-.git projesi olusturmak için 
-cmd üzerinden "git init" yazilir
+marka hore username-kaaga iyo emailkaaga waa inaad gelisaa adoo isticmaalaya sidan:
+git config --global user.name "KayseMca"->halkan kayse username-kaaga geli
+git config --global user.email "madadmca04@gmail.com"
+.git klasor si aad u sameyso
+cmd -ka "git init" ayaad ku qoreysaa
  ########## .gitignore demek bu dosyalari fark etmesini istemem silsem degisilikli yapsam da
 commit için 
 git commit -m ""-> wixii aad rabto inaad qorto ku qor
