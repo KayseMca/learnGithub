@@ -13,3 +13,6 @@ git branch -> wuxuu ku tusi inta branch ee project-ga ku midoobay yani ka tafiir
 git branch (magac) -> si aad u sameyso branch cusub, meesha (magac) -adoon qowska qoreyn- magaca aad rabto ama branch magaca aad la rabto ayaad ku qoro
 git checkout magac -> si aad branch-kii aad sameysay u dhexgasho
 git merge master -> wixii aad halkaa ku sameysay si aad ugu darto qaybtii masterka ahayd.
+
+wada ugu gaaban-> git checkout -b test --> waxa ay ka dhigan tahay intaad branch cusub sameysid, branch-kaas dhexgal.
+kor labada hab ee ugu dambeyay oo halmar la wada sameyay ayey ka dhigan tahay.
