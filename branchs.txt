@@ -1,0 +1,15 @@
+Marka aad github project ku shubeysid ama ka soo dejisaneysid,
+markasta master waxa la dhaho ayaad tahay oo ka dhigan project-gaas wixii
+isbedel ah ee lagu daray qofka u dambeeya ee meeshiisa ku shubaa ama ansixiya waa adiga.
+
+hadaba mararka qaar project-ga dushiisa ma rabtid inaad isbedelada aad sameysay uu toos u saameeyo
+sidaa darteed brach kale(copy-giisi camal) baad sameyn kadibna wixii cusub ee aad ka bedelayso ama aad ku dul-baranayso
+isaga ayaad ku sameyn.
+faaiidadu waxa ay tahay haddii khalad yimaado ama intaad wax tirtay uu project kuu shaqeyn waayo ma sameynayo originalkii(masterkii).
+
+sida loo sameeyo branch:
+
+git branch -> wuxuu ku tusi inta branch ee project-ga ku midoobay yani ka tafiirma(ogow masterku waa ka u dambeeya ee project bedeli kara).
+git branch (magac) -> si aad u sameyso branch cusub, meesha (magac) -adoon qowska qoreyn- magaca aad rabto ama branch magaca aad la rabto ayaad ku qoro
+git checkout magac -> si aad branch-kii aad sameysay u dhexgasho
+git merge master -> wixii aad halkaa ku sameysay si aad ugu darto qaybtii masterka ahayd.
