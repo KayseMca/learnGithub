@@ -41,7 +41,10 @@ git checkout --(dosya adi)  -> silinen veya eklenen yazilari çikarir ve eski hal
 
  #2dosya geri getirme
 
-
+##tusaale:
+ hawl aad sameysay sida inaad folder ku dartay file cusub kadibna aad "add" isticmaashay lkn aanad weli commit dhihin si aad u update-gareyso
+waxaad dib uga laaban kartaa "git reset <magaca hawsha aad "add" tidhi>"
+git 
 ### ekstra bilgi
 
 
